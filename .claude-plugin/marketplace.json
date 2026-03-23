@@ -16,7 +16,7 @@
         "package": "bms-session-plugin"
       },
       "description": "BMS Session API integration — skills for querying HOSxP hospital databases + MCP server auto-configuration",
-      "version": "1.0.2",
+      "version": "1.0.3",
       "author": {
         "name": "manoirx"
       },
