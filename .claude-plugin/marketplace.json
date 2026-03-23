@@ -31,8 +31,8 @@
         "source": "npm",
         "package": "bms-speckit-plugin"
       },
-      "description": "Structured development workflow: constitution → specify → plan → tasks → analyze → implement. Engineering pipeline with TDD and quality gates.",
-      "version": "1.0.0",
+      "description": "Single-command automated dev pipeline: /bms-speckit takes requirements and runs the full engineering workflow with TDD and quality gates.",
+      "version": "2.0.0",
       "author": {
         "name": "manoirx"
       },
