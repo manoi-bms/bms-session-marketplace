@@ -1,0 +1,29 @@
+{
+  "name": "bms-session",
+  "owner": {
+    "name": "manoirx",
+    "email": "manoirx@users.noreply.github.com"
+  },
+  "metadata": {
+    "description": "BMS Session API tools for HOSxP hospital databases in Thailand",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "bms-session-plugin",
+      "source": {
+        "source": "npm",
+        "package": "bms-session-plugin"
+      },
+      "description": "BMS Session API integration — skills for querying HOSxP hospital databases + MCP server auto-configuration",
+      "version": "1.0.1",
+      "author": {
+        "name": "manoirx"
+      },
+      "homepage": "https://www.npmjs.com/package/bms-session-plugin",
+      "license": "MIT",
+      "keywords": ["bms", "hosxp", "hospital", "healthcare", "thailand", "mcp"],
+      "category": "healthcare"
+    }
+  ]
+}
