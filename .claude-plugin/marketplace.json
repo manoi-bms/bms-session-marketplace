@@ -24,6 +24,21 @@
       "license": "MIT",
       "keywords": ["bms", "hosxp", "hospital", "healthcare", "thailand", "mcp"],
       "category": "healthcare"
+    },
+    {
+      "name": "bms-speckit",
+      "source": {
+        "source": "npm",
+        "package": "bms-speckit-plugin"
+      },
+      "description": "Structured development workflow: constitution → specify → plan → tasks → analyze → implement. Engineering pipeline with TDD and quality gates.",
+      "version": "1.0.0",
+      "author": {
+        "name": "manoirx"
+      },
+      "license": "MIT",
+      "keywords": ["workflow", "tdd", "specification", "planning"],
+      "category": "development"
     }
   ]
 }
