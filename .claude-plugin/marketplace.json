@@ -31,13 +31,13 @@
         "source": "npm",
         "package": "bms-speckit-plugin"
       },
-      "description": "Single-command automated dev pipeline: /bms-speckit takes requirements and runs the full engineering workflow with TDD and quality gates.",
-      "version": "3.9.0",
+      "description": "Chain-orchestrated dev pipeline with per-step error handling: /bms-speckit runs brainstorm → constitution → specify → plan → tasks → analyze → implement → verify.",
+      "version": "4.0.0",
       "author": {
         "name": "manoirx"
       },
       "license": "MIT",
-      "keywords": ["workflow", "tdd", "specification", "planning"],
+      "keywords": ["workflow", "tdd", "specification", "planning", "chain", "orchestrator"],
       "category": "development"
     }
   ]
