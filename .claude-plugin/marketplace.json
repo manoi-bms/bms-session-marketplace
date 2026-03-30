@@ -32,7 +32,7 @@
         "package": "bms-speckit-plugin"
       },
       "description": "Chain-orchestrated dev pipeline with per-step error handling: /bms-speckit runs brainstorm → constitution → specify → plan → tasks → analyze → implement → verify.",
-      "version": "4.1.0",
+      "version": "5.0.0",
       "author": {
         "name": "manoirx"
       },
