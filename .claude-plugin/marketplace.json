@@ -31,8 +31,8 @@
         "source": "npm",
         "package": "bms-speckit-plugin"
       },
-      "description": "12-step chain-orchestrated dev pipeline with research (WebSearch + context7), rolling QC, and comprehensive final quality gate: brainstorm → research → constitution → specify → plan → tasks → analyze → implement → QC (security/deps/UX/a11y/deploy/DB compatibility) → merge.",
-      "version": "6.3.1",
+      "description": "12-step chain-orchestrated dev pipeline with research (WebSearch + context7), rolling QC, and comprehensive final quality gate including live SQL schema validation: brainstorm → research → constitution → specify → plan → tasks → analyze → implement → QC (security/deps/UX/a11y/deploy/DB compatibility/SQL field validation) → merge.",
+      "version": "6.4.0",
       "author": {
         "name": "manoirx"
       },
