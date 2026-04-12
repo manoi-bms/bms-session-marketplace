@@ -31,8 +31,8 @@
         "source": "npm",
         "package": "bms-speckit-plugin"
       },
-      "description": "12-step chain-orchestrated dev pipeline with research, rolling QC, SQL schema validation, real-database integration testing, and HOSxP business logic semantic validation via bms-knowledge-mcp: brainstorm → research → constitution → specify → plan → tasks → analyze → implement (per-task integration tests + business logic checks) → QC (9 dimensions including HOSxP/MOPH/NHSO semantic correctness) → merge.",
-      "version": "6.6.0",
+      "description": "12-step chain-orchestrated dev pipeline with research, rolling QC, SQL schema validation, real-database integration testing, HOSxP business logic semantic validation, and brand/layout consistency enforcement: brainstorm → research → constitution → specify → plan → tasks → analyze → implement (per-task integration tests + business logic + brand checks) → QC (9 dimensions including navbar/login/layout professional polish) → merge.",
+      "version": "6.7.0",
       "author": {
         "name": "manoirx"
       },
