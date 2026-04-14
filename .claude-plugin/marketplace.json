@@ -32,7 +32,7 @@
         "package": "bms-speckit-plugin"
       },
       "description": "Fully autonomous 12-step chain-orchestrated dev pipeline with research, rolling QC, SQL schema validation, real-database integration testing, HOSxP business logic semantic validation, and brand/layout consistency enforcement: brainstorm → research → constitution → specify → plan → tasks → analyze → implement (per-task integration tests + business logic + brand checks) → QC (9 dimensions including navbar/login/layout professional polish) → merge. Never prompts for clarification — resolves all ambiguities with documented defaults.",
-      "version": "6.8.0",
+      "version": "6.9.0",
       "author": {
         "name": "manoirx"
       },
