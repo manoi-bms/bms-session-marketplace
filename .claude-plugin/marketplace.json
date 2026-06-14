@@ -6,7 +6,7 @@
   },
   "metadata": {
     "description": "BMS Session API tools for HOSxP hospital databases in Thailand",
-    "version": "1.1.0"
+    "version": "1.2.0"
   },
   "plugins": [
     {
@@ -15,8 +15,8 @@
         "source": "npm",
         "package": "bms-session-plugin"
       },
-      "description": "BMS Session API integration — /api/sql + /api/rest (110 tables, CRUD, auto-joins) + MCP server auto-configuration",
-      "version": "1.1.0",
+      "description": "BMS Session API integration — /api/sql + /api/rest (118 tables, CRUD, auto-joins) + MCP server auto-configuration",
+      "version": "1.2.0",
       "author": {
         "name": "manoirx"
       },
